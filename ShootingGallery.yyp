@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": true,
     "configs": [
-
+        
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-
+            
         ],
         "projectPath": "${base_project}"
     },
@@ -50,7 +50,15 @@
             "Key": "29f942a1-a45c-49d0-ab80-8dc5ce632178",
             "Value": {
                 "id": "dcc2d102-4181-4048-ab4d-f02cbd4af9f5",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\object_hole\\object_hole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ecc759e-fe5e-49ff-81da-005d6fb197a4",
+            "Value": {
+                "id": "b97eae98-23d2-4ab2-9591-5aedd02cdc9f",
+                "resourcePath": "objects\\object_duck\\object_duck.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -84,6 +92,14 @@
                 "id": "41df52c7-62c7-4844-a4b7-1d4e4d83e623",
                 "resourcePath": "views\\753bfeae-40a0-4381-b8d2-9f4fd6659e58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b7bc6d3-8f54-4260-a7ab-9c81aea62acc",
+            "Value": {
+                "id": "4c1d04c7-fb06-4d58-a3ae-e9577512d097",
+                "resourcePath": "sprites\\sprite_target\\sprite_target.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -124,14 +140,6 @@
                 "id": "3cf9e39f-8562-4496-a0ae-d5c37f4bdb28",
                 "resourcePath": "views\\a46d8c32-7fa8-4d7d-8992-f7ffe9d93f8a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ab4af7ba-525e-410d-b91b-b21215c30531",
-            "Value": {
-                "id": "a6067988-afc5-4be1-8b4d-ad9035e9a43f",
-                "resourcePath": "objects\\object_crosshair\\object_crosshair.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -180,6 +188,14 @@
                 "id": "4f544764-12d0-4cdb-a8ea-29e79adf7004",
                 "resourcePath": "views\\cccf29ca-acef-4aae-bb99-ccd414f7ba85.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc2546b4-9eed-4ad9-9c1a-eff7de8b65de",
+            "Value": {
+                "id": "9333eddc-dc9c-496b-8bf2-0f79e4c25580",
+                "resourcePath": "objects\\object_crosshair\\object_crosshair.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -248,7 +264,7 @@
         }
     ],
     "script_order": [
-
+        
     ],
     "tutorial": ""
 }
