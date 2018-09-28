@@ -5,13 +5,23 @@
     "name": "object_hole",
     "eventList": [
         {
-            "id": "4e9d6ee6-09dd-4d3b-adf6-73ff13396de6",
+            "id": "b85a74c0-8d60-4179-8446-5dab44245ab6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "29f942a1-a45c-49d0-ab80-8dc5ce632178"
+        },
+        {
+            "id": "95b2d03e-5db7-4042-b19a-68283fa927db",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
             "m_owner": "29f942a1-a45c-49d0-ab80-8dc5ce632178"
         }
     ],
