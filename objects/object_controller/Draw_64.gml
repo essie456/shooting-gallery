@@ -25,12 +25,12 @@ draw_set_font(font_in_game);
 /// @DnDHash : 2C957C41
 /// @DnDArgument : "x" "200"
 /// @DnDArgument : "y" "25"
-/// @DnDArgument : "sprite" "sprite_bullet"
-/// @DnDSaveInfo : "sprite" "b19006b3-1606-486c-ae56-7adfd456bbd7"
-var l2C957C41_0 = sprite_get_width(sprite_bullet);
+/// @DnDArgument : "sprite" "sprite_ammo"
+/// @DnDSaveInfo : "sprite" "d15bb092-de34-4023-8b2b-4cb6caf39e72"
+var l2C957C41_0 = sprite_get_width(sprite_ammo);
 var l2C957C41_1 = 0;
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 for(var l2C957C41_2 = __dnd_lives; l2C957C41_2 > 0; --l2C957C41_2) {
-	draw_sprite(sprite_bullet, 0, 200 + l2C957C41_1, 25);
+	draw_sprite(sprite_ammo, 0, 200 + l2C957C41_1, 25);
 	l2C957C41_1 += l2C957C41_0;
 }
